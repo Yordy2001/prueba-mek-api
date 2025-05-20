@@ -1,6 +1,6 @@
 Proyecto typescript con las tecnologías de su preferencia.
 
-Tienes que hacer una aplicación que le permita a los usuarios crear notas con texto rico.
+- Tienes que hacer una aplicación que le permita a los usuarios crear notas con texto rico.
 - La aplicación debe contener una base de datos que guarde las notas de todos los usuarios,
 - un backend que administre la autenticación y un login y registro para que los usuarios puedan crearse cuentas,
 - Debe poder usarse sin internet, y sincronizar los datos al volver a obtener la conexión a internet.
